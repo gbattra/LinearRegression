@@ -17,7 +17,6 @@ plt.plot(X, y, 'ro')
 
 # add ones
 X0 = np.ones((X.size, 1))
-# X2 = np.square(X)
 X = np.hstack((X0, X))
 
 # initialize thetas
