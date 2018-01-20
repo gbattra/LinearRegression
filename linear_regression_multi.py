@@ -1,4 +1,4 @@
-# this is a multivariate variable linear regression model
+# this is a multivariate linear regression model
 # it predicts the number of expected bike rentals based on the temperature, humidity and windspeed for that day
 
 import numpy as np
