@@ -18,6 +18,7 @@ def gradient_descent(X, y, theta, alpha, iterations):
 
         # compute partial derivatives for each training example and add it to the cost
         for i in range(0, m):
+            print(str(i) + ' - ' + str(h.item(i)) + ' - ' + str(theta))
             J = J + (h.item(i) - y.item(i)) * (X[i, :].T)
 
         theta = theta - alpha * ((1 / m) * J)

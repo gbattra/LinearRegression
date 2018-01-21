@@ -1,7 +1,7 @@
 # this is a single variable linear regression model
 # it predicts the number of expected bike rentals based on the temperature for that day
 
-# NOTE: this model still has a fairly large cost but that is because there is a weak correlation between the data
+# NOTE: this model still has a fairly large cost as there is a weak correlation between the data
 
 import numpy as np
 import pandas as pd
@@ -17,7 +17,7 @@ X = np.matrix(clean_data[:, 0:1])
 y = np.matrix(clean_data[:, 1:2])
 
 # plot the data
-plt.plot(X[:, 0], y, 'ro')
+plt.plot(X, y, 'ro')
 
 # add ones
 X0 = np.ones((X.shape[0], 1))

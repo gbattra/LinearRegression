@@ -1,7 +1,7 @@
 # this is a multivariate linear regression model
 # it predicts the number of expected bike rentals based on the temperature, humidity and windspeed for that day
 
-# NOTE: this model still has a fairly large cost but that is because there is a weak correlation between the data
+# NOTE: this model still has a fairly large cost as there is a weak correlation between the data
 
 import numpy as np
 import pandas as pd
