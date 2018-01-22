@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dcc447f-3770-4b88-a71b-bcd2b1284aec" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/linear_regression_quadratic.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/compute_cost.py" afterPath="$PROJECT_DIR$/compute_cost.py" />
-      <change beforePath="$PROJECT_DIR$/gradient_descent.py" afterPath="$PROJECT_DIR$/gradient_descent.py" />
-      <change beforePath="$PROJECT_DIR$/linear_regression_multi.py" afterPath="$PROJECT_DIR$/linear_regression_multi.py" />
-      <change beforePath="$PROJECT_DIR$/linear_regression_single.py" afterPath="$PROJECT_DIR$/linear_regression_single.py" />
-    </list>
+    <list default="true" id="0dcc447f-3770-4b88-a71b-bcd2b1284aec" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +38,8 @@
       <file leaf-file-name="linear_regression_quadratic.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/linear_regression_quadratic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+            <state relative-caret-position="-78">
+              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
               <folding>
                 <element signature="e#91#109#0" expanded="true" />
               </folding>
@@ -68,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/gradient_descent.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -139,7 +132,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LogisiticRegression" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -660,7 +653,7 @@
     <entry file="file://$PROJECT_DIR$/gradient_descent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -695,8 +688,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linear_regression_quadratic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+        <state relative-caret-position="-78">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
           <folding>
             <element signature="e#91#109#0" expanded="true" />
           </folding>
